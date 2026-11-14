@@ -1,5 +1,5 @@
 <a href="https://github.com/jigokubana/karamete-python">
-  <img align="right" width="220" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Tropical%20Fish.webp" alt="karamete-python" />
+  <img align="right" width="220" src="./fish_60fps.webp" alt="karamete-python" />
 </a>
 
 ### jigokubana
