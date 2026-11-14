@@ -1,21 +1,21 @@
-<div align="center">
-  <img src="./higan87.png" alt="Higanbana" width="320" />
-</div>
-
-<br />
+<img align="right" width="300" src="./image_13.png" alt="Higanbana" />
 
 ### jigokubana
 
-CS student building a foundation in software engineering. Focused on clean, typed code and algorithmic problem solving.
+CS student focused on software engineering, algorithms, and system fundamentals. Writing clean, strictly typed code with attention to time and space complexity.
 
-* **Current Track:** Python fundamentals, data structures, and command-line workflow.
-* **Interests:** Machine Learning & Network Engineering.
-* **Core Repository:** [**karamete-python**](https://github.com/jigokubana/karamete-python) — monorepo containing handbook solutions and utility projects.
+* **Focus:** Python, Data Structures & Algorithms, Linux CLI
+* **Direction:** Machine Learning & Network Engineering
+* **Main Lab:** [**karamete-python**](https://github.com/jigokubana/karamete-python) — unified monorepo for Yandex Handbooks and mini-projects
 
----
+<br />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=D92B2B&labelColor=0D1117" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=D92B2B&labelColor=0D1117" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=D92B2B&labelColor=0D1117" alt="VS Code" />
-</p>
+#### Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+</a>
+
+#### Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Git, VS Code" />
+</a>
