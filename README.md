@@ -1,14 +1,18 @@
-<img align="right" width="260" src="./higan87.png" alt="Higanbana" />
+<div align="center">
+  <img src="./higan87.png" alt="Higanbana" width="320" />
+</div>
+
+<br />
 
 ### jigokubana
 
-CS student focused on software engineering, algorithms, and system fundamentals. Writing clean, strictly typed code with attention to time and space complexity.
+CS student building a foundation in software engineering. Focused on clean, typed code and algorithmic problem solving.
 
-* **Focus:** Python, Data Structures & Algorithms, Linux CLI
-* **Direction:** Machine Learning & Network Engineering
-* **Main Lab:** [**karamete-python**](https://github.com/jigokubana/karamete-python) — unified monorepo for Yandex Handbooks and mini-projects
+* **Current Track:** Python fundamentals, data structures, and command-line workflow.
+* **Interests:** Machine Learning & Network Engineering.
+* **Core Repository:** [**karamete-python**](https://github.com/jigokubana/karamete-python) — monorepo containing handbook solutions and utility projects.
 
-<br />
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=D92B2B&labelColor=0D1117" alt="Python" />
