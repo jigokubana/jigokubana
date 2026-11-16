@@ -20,7 +20,7 @@ CS student focused on software engineering, algorithms, and system fundamentals.
 
 #### Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Git, VS Code, visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" alt="Git, VS Code, Visual Studio" />
 </a>
 
 #### Contact
